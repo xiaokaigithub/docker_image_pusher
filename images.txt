@@ -1,4 +1,3 @@
-rockylinux:9
 httpd：latest
 nginx:latest
 busybox:1.28
