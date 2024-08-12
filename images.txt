@@ -1,1 +1,1 @@
-rockylinux:latest
+rockylinux:9
