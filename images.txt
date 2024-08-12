@@ -1,1 +1,3 @@
-gcr.io/cadvisor/cadvisor:v0.49.1
+prom/node-exporter:v1.8.1
+prom/prometheus:v2.53.0
+prom/alermanager:0.27.0
