@@ -1,1 +1,1 @@
-CenOS：7
+CentOS：7
