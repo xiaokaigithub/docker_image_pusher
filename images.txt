@@ -1,2 +1,1 @@
-ubuntu:22.04
-busybox:latest
+centos:7
