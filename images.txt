@@ -1,2 +1,2 @@
-CentOS：latest
+CentOS：7
 
