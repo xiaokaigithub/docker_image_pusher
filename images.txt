@@ -1,2 +1,2 @@
-progrium:latest
+stress:latest
 
