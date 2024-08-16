@@ -1,2 +1,2 @@
-stress:latest
+alpine
 
