@@ -1,1 +1,2 @@
-gcr.io/zabbix/zabbix-server-mysql:latest
+zabbix/zabbix-server-mysql:latest
+zabbix/zabbix-agent:latest
