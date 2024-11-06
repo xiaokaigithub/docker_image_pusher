@@ -1,1 +1,1 @@
-registry.k8s.io/php:latest
+php:latest
